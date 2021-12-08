@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Project_COVID19data
 
 A list of queries to explore COVID-19 data in Indonesia and world.
 
